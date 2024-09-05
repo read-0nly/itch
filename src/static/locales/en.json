@@ -613,6 +613,7 @@
 
   "sort_by.games.acquired_at": "Acquired recently",
   "sort_by.games.title": "Title",
+  "sort_by.games.installedAt": "Install Date",
   "sort_by.games.views": "Views",
   "sort_by.games.downloads": "Downloads",
   "sort_by.games.purchases": "Purchases",
