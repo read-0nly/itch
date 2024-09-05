@@ -54,6 +54,7 @@ class InstalledPage extends React.PureComponent<Props> {
     <SortsAndFilters>
       <FilterGroup>
         <SortOption sortBy="title" label={_("sort_by.games.title")} />
+        <SortOption sortBy="installedAt" label={_("sort_by.games.title")} />
       </FilterGroup>
       <FilterSpacer />
       <FilterGroupGameClassification />
